@@ -9,7 +9,7 @@
             "changeTime": 1489530503621,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1489530503621,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1489771260020,
             "changeTime": 1489771260020,
-            "contentHash": "f0f7f39ec7e62249ee81dac2c3f1b3586a4fd52e"
+            "contentHash": "f0f7f39ec7e62249ee81dac2c3f1b3586a4fd52e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1489703438573,
             "contentHash": "0b476051be305d2f90024095b3b5c9395bdc21c1",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -64,23 +64,23 @@
             "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects\\Account.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 14621,
-            "modifiedTime": 1489771260026,
-            "changeTime": 1489771260026,
-            "contentHash": "a6c9ff32337f6d824445526dec2b0d946cbe54de"
+            "size": 14740,
+            "modifiedTime": 1489771934806,
+            "changeTime": 1489771934806,
+            "contentHash": "ea4e8123a28c30c18a4906c86e33b245bfb47fde"
         }
     ],
     [
         "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1489771260026,
             "changeTime": 1489771260026,
-            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6"
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

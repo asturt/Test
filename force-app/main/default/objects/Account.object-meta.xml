@@ -167,6 +167,7 @@
     </fields>
     <fields>
         <fullName>My_Text_Field__c</fullName>
+        <description>A text field created for seeing what I can push and pull from and to Salesforce DX.</description>
         <externalId>false</externalId>
         <label>My Text Field</label>
         <length>60</length>
