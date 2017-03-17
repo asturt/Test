@@ -169,7 +169,7 @@
         <fullName>My_Text_Field__c</fullName>
         <externalId>false</externalId>
         <label>My Text Field</label>
-        <length>50</length>
+        <length>60</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
