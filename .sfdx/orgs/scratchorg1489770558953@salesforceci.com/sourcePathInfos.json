@@ -1,8 +1,8 @@
 [
     [
-        "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app",
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app",
         {
-            "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app",
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1489530503621,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main",
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main",
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1489530503621,
@@ -30,55 +30,132 @@
         }
     ],
     [
-        "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default",
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default",
         {
-            "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default",
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1489771260020,
-            "changeTime": 1489771260020,
-            "contentHash": "f0f7f39ec7e62249ee81dac2c3f1b3586a4fd52e",
+            "modifiedTime": 1489779324854,
+            "changeTime": 1489779324854,
+            "contentHash": "fce4559e42ad98a96c7099fa51033f441d1bb437",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest",
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest",
         {
-            "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest",
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1489703438573,
-            "changeTime": 1489703438573,
-            "contentHash": "0b476051be305d2f90024095b3b5c9395bdc21c1",
+            "modifiedTime": 1489773167120,
+            "changeTime": 1489773167120,
+            "contentHash": "e3cb29cbea02dbb23d3c642c4f6c08158eb18f67",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
-        "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects\\Account.object-meta.xml",
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects\\Account.object-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects\\Account.object-meta.xml",
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects\\Account.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 14740,
-            "modifiedTime": 1489771934806,
-            "changeTime": 1489771934806,
-            "contentHash": "ea4e8123a28c30c18a4906c86e33b245bfb47fde"
+            "size": 14741,
+            "modifiedTime": 1489782032004,
+            "changeTime": 1489782032004,
+            "contentHash": "ee86e25b1bb2db89bb4aac5e16e8b39b286a91a9"
         }
     ],
     [
-        "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects",
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects",
         {
-            "sourcePath": "C:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects",
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1489771260026,
+            "modifiedTime": 1489771934806,
             "changeTime": 1489771260026,
             "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1489779324853,
+            "changeTime": 1489775316077,
+            "contentHash": "a5c07434ece4cf225a30dc8302ade06ae413c2bd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\classes\\AccountHandler.cls",
+        {
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\classes\\AccountHandler.cls",
+            "isDirectory": false,
+            "size": 514,
+            "modifiedTime": 1489781902672,
+            "changeTime": 1489781902672,
+            "contentHash": "782503ed6e853948e1fcbd793709eb2a7f0f9bd5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\classes\\AccountHandler.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\classes\\AccountHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1489779324844,
+            "changeTime": 1489779324844,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1489779324860,
+            "changeTime": 1489779324860,
+            "contentHash": "cc4783bd7bb88d6bcbcebf01869690edeaa89d5c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+        {
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+            "isDirectory": false,
+            "size": 276,
+            "modifiedTime": 1489781809836,
+            "changeTime": 1489781809836,
+            "contentHash": "37075d57688054266683e52494015c308dc23c01",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "c:\\Users\\asturt\\Documents\\SalesforceDX\\SalesforceDXTest\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1489779324867,
+            "changeTime": 1489779324867,
+            "contentHash": "acc54750b3a2aad756c0864b40e1712786e9e0c1",
             "isMetadataFile": false,
             "state": "u"
         }
