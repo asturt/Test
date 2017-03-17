@@ -1,0 +1,10 @@
+{
+  "Company": "Salesforce CI",
+  "Country": "US",
+  "LastName": "andy.sturt",
+  "Email": "asturt@us.ci.org",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
